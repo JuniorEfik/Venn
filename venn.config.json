@@ -1,0 +1,9 @@
+{
+    "networks": {
+        "holesky": {
+            "contracts": {
+                "MyContract1": "0xD9D33098fB6A54CB26dD5bBD7bEf03d92215c65c"
+            }
+        }
+    }
+}

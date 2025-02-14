@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  },
+  "dependencies": {
+    "@ironblocks/firewall-consumer": "^1.0.17",
+    "@openzeppelin/contracts": "^5.2.0",
+    "@vennbuild/venn-dapp-sdk": "^0.8.7",
+    "dotenv": "^16.4.7"
+  },
+  "scripts": {
+    "instance": "scripts/instance.js"
+  }
+}
